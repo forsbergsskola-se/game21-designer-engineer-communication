@@ -83,6 +83,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spear_Handle
       objectReference: {fileID: 0}
+    - target: {fileID: 8581865066755120120, guid: fe938fd5ae85e404885d74221eaa74fe, type: 3}
+      propertyPath: points
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 8759778604347449750, guid: fe938fd5ae85e404885d74221eaa74fe, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.7830767
